@@ -50,7 +50,7 @@ Construido con **Laravel 5**, este sistema ofrece una base sólida para la admin
 
 ### 1. Clonar el proyecto
 ```bash
-git clone https://github.com/tu-usuario/gestion-condominios.git
+git clone https://github.com/isairey/Sistema-Gestion-Condominios.git
 ```
 cd gestion-condominios
 2. Instalar dependencias
